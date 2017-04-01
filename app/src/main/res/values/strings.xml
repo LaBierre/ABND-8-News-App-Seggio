@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">News App Feed</string>
+
+    <string name="no_news_available">No news available</string>
+    <string name="no_web_available">No Webside available</string>
+
+    <string name="error_resp_code">"Error response code: "</string>
+    <string name="utf_8">UTF-8</string>
+    <string name="get_http">GET</string>
+    <string name="io_exeption">Problem retrieving the news JSON results.</string>
+    <string name="malformed_exeption">"Problem building the URL "</string>
+    <string name="io_exeption_http">Problem making the HTTP request.</string>
+    <string name="io_exepion_three">Problem parsing the book JSON results</string>
+    <string name="authors_item">Authors</string>
+    <string name="published_item">Published</string>
+    <string name="url_item">Url</string>
+    <string name="title_item">Title</string>
+    <string name="topic_item">Topic</string>
+    <string name="submit_button">Submit</string>
+    <string name="qm_activity"><![CDATA[&q=]]></string>
+    <string name="section_activity"><![CDATA[&section=]]></string>
+    <string name="response_utils">response</string>
+    <string name="results_utils">results</string>
+    <string name="section_utils">sectionName</string>
+    <string name="webtitle_utils">webTitle</string>
+    <string name="weburl_utils">webUrl</string>
+    <string name="published_utils">webPublicationDate</string>
+    <string name="tags_utils">tags</string>
+    <string name="no_items_selected"><![CDATA[&q=No news available]]></string>
+    <string name="no_items_toast">No Items Selected!</string>
+</resources>
